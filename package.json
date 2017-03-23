@@ -1,6 +1,6 @@
 {
   "name": "test-webpack-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🚩webpack-loader的demo--教会你怎么写出自己的loader",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/kingvid-chan/test-webpack-loader.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+      "webpack",
+      "webpack-loader",
+      "loader",
+      "webpack learning",
+      "write a loader"
+  ],
+  "author": "kingvid",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kingvid-chan/test-webpack-loader/issues"
